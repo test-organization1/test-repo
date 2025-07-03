@@ -1,0 +1,35 @@
+# Changelog
+
+## Features
+- Added log_1.txt
+- Added log_2.txt
+- Added log_3.txt
+- Added log_4.txt
+- Added log_5.txt
+- Added log_6.txt
+- Added log_7.txt
+- Added log_8.txt
+- Added log_9.txt
+- Added log_10.txt
+- Added log_11.txt
+- Added log_12.txt
+- Added log_13.txt
+- Added log_14.txt
+- Added log_15.txt
+- Added log_16.txt
+- Added log_17.txt
+- Added log_18.txt
+- Added log_19.txt
+- Added log_20.txt
+- Feature 1 added via PR #1
+- Feature 2 added via PR #2
+- Feature 3 added via PR #3
+- Feature 4 added via PR #4
+- Feature 5 added via PR #5
+- Feature 6 added via PR #6
+- Feature 7 added via PR #7
+- Feature 8 added via PR #8
+- Feature 9 added via PR #9
+- Feature 10 added via PR #10
+- Feature 11 added via PR #11
+- Feature 12 added via PR #12
